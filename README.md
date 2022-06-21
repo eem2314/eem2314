@@ -2,7 +2,7 @@ I'm Edward (Ed) Earnest Meyer. Mis amigos latinos me dicen Lalo.
 I retired from The Boeing Company 10 years ago, and in retirement
 I've written a few papers dealing with flutter, an instability
 caused by a structure moving in a fluid. My focus is on practical
-methods for predicting flutter in real structures (usually airplanes)
+methods for predicting flutter in real structures (usually aircraft)
 including multiple nonlinearities.
 
 Currently I'm working on adding uncertainties to nonlinear flutter
