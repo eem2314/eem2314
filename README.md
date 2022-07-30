@@ -11,7 +11,8 @@ calculations, hopefuly leading to a publication.
 I have written a set of programs I'm calling Flaps which I use for
 the calculations in my papers; I'd like to make it available to
 any researchers working along these same lines. It is written almost
-entirely in C++.
+entirely in C++; the user's manual is available at
+https://github.com/eem2314/eem2314/releases
 
 A list of my publications is available at
 https://www.researchgate.net/profile/Edward-Meyer
