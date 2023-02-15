@@ -1,12 +1,13 @@
 I'm Edward (Ed) Earnest Meyer. Mis amigos latinos me dicen Lalo.
-I retired from The Boeing Company 10 years ago, and in retirement
+I retired from The Boeing Company in 2012, and in retirement
 I've written a few papers dealing with flutter, an instability
 caused by a structure moving in a fluid. My focus is on practical
 methods for predicting flutter in real structures (usually aircraft)
 including multiple nonlinearities.
 
-Currently I'm working on adding uncertainties to nonlinear flutter
-calculations, hopefuly leading to a publication.
+Currently I'm working on whirl flutter, a hazard affecting
+propeller-driven aircraft, which are seeing a resurgence, e.g. in
+evtol aircraft.
 
 I have written a set of programs I'm calling Flaps which I use for
 the calculations in my papers; I'd like to make it available to
